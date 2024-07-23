@@ -1,5 +1,5 @@
 
-# Building a Machine Learning Model to Identify Health Care Discrimination
+# Building a dashboard to Identify Health Care Discrimination
 
 ## Project Overview
 This project focuses on analyzing patient survey data to identify potential healthcare discrimination across different hospitals and states. Using the HCAHPS Hospital Ratings Survey dataset, we aim to uncover patterns and insights that could indicate systemic issues in patient care quality. The analysis was conducted using Google Colab, leveraging Python libraries for data processing and visualization.
