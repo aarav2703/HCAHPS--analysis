@@ -1,5 +1,5 @@
 
-# Building a dashboard to Identify Health Care Variation
+# Building a dashboard to Identify Health Care Variation using the HCAHPS dataset
 
 ## Project Overview
 This project focuses on analyzing patient survey data to identify potential healthcare variation across different hospitals and states. Using the HCAHPS Hospital Ratings Survey dataset, I aim to uncover patterns and insights that could indicate systemic issues in patient care quality. The analysis was conducted using Google Colab, leveraging Python libraries for data processing and visualization.
