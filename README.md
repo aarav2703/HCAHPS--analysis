@@ -2,7 +2,7 @@
 # Building a dashboard to Identify Health Care Variation
 
 ## Project Overview
-This project focuses on analyzing patient survey data to identify potential healthcare discrimination across different hospitals and states. Using the HCAHPS Hospital Ratings Survey dataset, we aim to uncover patterns and insights that could indicate systemic issues in patient care quality. The analysis was conducted using Google Colab, leveraging Python libraries for data processing and visualization.
+This project focuses on analyzing patient survey data to identify potential healthcare variation across different hospitals and states. Using the HCAHPS Hospital Ratings Survey dataset, I aim to uncover patterns and insights that could indicate systemic issues in patient care quality. The analysis was conducted using Google Colab, leveraging Python libraries for data processing and visualization.
 
 **Note:** There is no interactive dashboard included in this project. The analysis and visualizations are presented through static visualizations created in Google Colab.
 
